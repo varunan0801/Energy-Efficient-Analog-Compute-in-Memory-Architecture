@@ -42,13 +42,6 @@ Simulation results show:
 - Reduced ADC activations through analog layer cascading
 - Improved effective precision through statistical conductance splitting
 
-## Applications
-This architecture is relevant for:
-
-- On-device AI
-- Edge ML accelerators
-- Energy-efficient neural hardware
-- Analog AI chips
 
 ## Future Work
 Potential improvements include:
@@ -59,11 +52,3 @@ Potential improvements include:
 - Exploiting sparsity and weight pruning
 - Cascading more than two analog layers
 
-## Authors
-- Varunan Balasubramanian  
-- Siddarth Gupta  
-- Lalitya Marathe  
-- Ananya Dongsarwar  
-
-Supervisor: **Prof. Arun Tej Mallajosyula**  
-Indian Institute of Technology Guwahati
