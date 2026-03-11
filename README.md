@@ -1,6 +1,5 @@
 # Energy-Efficient-Analog-Compute-in-Memory-Architecture
 
-# Energy-Efficient Analog Compute-in-Memory using Statistical Precision Scaling and Analog Layer Cascading
 
 ## Overview
 This project explores architectural and circuit-level techniques to improve the energy efficiency of **Analog Compute-in-Memory (CIM)** neural accelerators. While crossbar arrays perform multiply–accumulate (MAC) operations efficiently in the analog domain, overall system energy is often dominated by repeated **Analog-to-Digital Converter (ADC)** operations between neural network layers.
